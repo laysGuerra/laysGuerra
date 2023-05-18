@@ -1,5 +1,5 @@
 <h1 align="center">Eaí👋, Eu sou Lays :)</h1>
-<h3 align="center">Uma analista de Sistema se aventurando no mundo da data science e programação.</h3>
+<h3 align="center">Uma analista de Sistemas se aventurando no mundo da Engenharia de Dados.</h3>
 
 - 🌱 Atualmente eu estou aprendendo **Python,Manipulação de Dados, Cloud, Machine Learning**
 
