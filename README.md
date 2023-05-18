@@ -1,7 +1,7 @@
 <h1 align="center">Eaí👋, Eu sou Lays :)</h1>
 <h3 align="center">Uma analista de Sistema se aventurando no mundo da data science e programação.</h3>
 
-- 🌱 Atualmente eu estou aprendendo **Python, Machine Learning**
+- 🌱 Atualmente eu estou aprendendo **Python,Manipulação de Dados, Cloud, Machine Learning**
 
 - 💬 Me pergunte Sobre **SQL, Power Query, Python**
 
